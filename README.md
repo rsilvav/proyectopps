@@ -1,12 +1,12 @@
 # Codigo Seguro
 
-Simple overview of use/purpose.
-
 ## Description
 
 Repositorio para incluir las mejores prácticas de creación de código seguro
 
-## Getting Started
+## Enlaces bio
+
+https://github.com/rsilvav/proyectopps/blob/feature/rsilva/bio.md
 
 ### Dependencies
 
